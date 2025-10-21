@@ -113,19 +113,15 @@ The live demo is hosted on **Streamlit Cloud**:
 
 ### 🏠 App Home Interface
 
-![App Home](screenshots/home.png)
+![App Home](reports/Home.png)
 
 ### 📊 Prediction Output
 
-![Prediction Output](screenshots/prediction.png)
+![Prediction Output](reports/result.png)
 
 ### 📈 Model Comparison Report
 
-![Model Comparison](screenshots/model_comparison.png)
 
-*(Place these screenshots inside a `/screenshots` folder in your project.)*
-
----
 
 ## 📊 Model Performance
 
