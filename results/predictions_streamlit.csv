@@ -1,0 +1,6 @@
+Provider ID,Billed Amount,Procedure Code,Diagnosis Code,Allowed Amount,Paid Amount,Insurance Type,Claim Status,Reason Code,Follow-up Required,AR Status,Service_Year,Service_Month,Predicted_Outcome
+P101,1200,99213,D12,800,750,Private,Submitted,R01,No,Open,2023,5,1
+P202,2500,99214,E11,2000,1800,Medicare,Pending,R03,Yes,Closed,2024,8,2
+P303,900,99212,I10,700,600,Medicaid,Submitted,R02,No,Open,2024,11,1
+P404,3400,99215,C34,2900,2500,Private,Denied,R04,Yes,Closed,2025,2,2
+P505,1800,99213,J20,1600,1500,Medicare,Submitted,R01,No,Open,2023,7,1
