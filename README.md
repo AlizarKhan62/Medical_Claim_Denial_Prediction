@@ -119,10 +119,6 @@ The live demo is hosted on **Streamlit Cloud**:
 
 ![Prediction Output](reports/result.png)
 
-### 📈 Model Comparison Report
-
-
-
 ## 📊 Model Performance
 
 | Model               | Accuracy | Notes                 |
